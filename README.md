@@ -1,1 +1,1 @@
-Implementation of counter-flow membrane. Currently trying to recreate https://pdfs.semanticscholar.org/8190/bbe03c6fbe8ba013bfb544639723686f54dc.pdf in particular the method used for counter flow on pg 1292. More explanation within python files. 
+Implementation of counter-flow membrane. Currently trying to recreate https://pdfs.semanticscholar.org/8190/bbe03c6fbe8ba013bfb544639723686f54dc.pdf in particular the method used for counter flow on pg 1292. More explanation within python files. Requires pandas and numpy.
